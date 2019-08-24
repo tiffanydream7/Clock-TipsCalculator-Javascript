@@ -38,7 +38,7 @@ label, input {
 
     #container {
         opacity: 0.75;
-        margin-top: -40px;
+        /* margin-top: -10px; */
     }
 
     label, input {
